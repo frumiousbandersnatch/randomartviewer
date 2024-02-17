@@ -10,3 +10,4 @@ It works by generating a random number between 1 and 10,300 for the page number 
 + [ ] Include list of recently viewed images
 + [ ] Screen for 403s before they are shown and move on to next image instead
 + [ ] Save pic to desktop
++ [ ] Offer permanent URL to current image
